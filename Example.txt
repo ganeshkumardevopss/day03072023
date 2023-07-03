@@ -6,3 +6,5 @@ This is day 2 of GIT and GitHub
 
 :wq!
 
+
+Thus has been added expected after the unexpected
