@@ -1,3 +1,8 @@
 This is Project Example
 
-This is Developer Changed and checked again
+This is Developer Changed and checked agai
+
+This is day 2 of GIT and GitHub
+
+:wq!
+
